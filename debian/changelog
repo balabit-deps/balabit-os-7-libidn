@@ -1,3 +1,9 @@
+libidn (1.33-2.1ubuntu1bb1) bionic; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Wed, 01 Aug 2018 19:11:03 +0200
+
 libidn (1.33-2.1ubuntu1) bionic; urgency=medium
 
   * Build using default-jdk instead of gcj-jdk.
