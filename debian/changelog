@@ -1,3 +1,10 @@
+libidn (1.33-2.1ubuntu1.1) bionic; urgency=medium
+
+  * Backport change from cosmic to resolve the current FTBFS (LP: #1813584):
+    - Do not set as-needed, to work-around a testsuite failure
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 30 Jan 2019 14:07:10 +0100
+
 libidn (1.33-2.1ubuntu1) bionic; urgency=medium
 
   * Build using default-jdk instead of gcj-jdk.
