@@ -26,7 +26,7 @@ AUTOMAKE_OPTIONS = 1.9.6 foreign subdir-objects
 
 SUBDIRS = .
 TESTS =
-XFAIL_TESTS = test-thread_create test-lock
+XFAIL_TESTS =
 TESTS_ENVIRONMENT =
 noinst_PROGRAMS =
 check_PROGRAMS =
