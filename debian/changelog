@@ -1,3 +1,10 @@
+libidn (1.33-2.1ubuntu1.1bb5) bionic; urgency=medium
+
+  * Balabit patched version
+  * Fixed tests
+
+ -- SSB Team <devnull@dev.null>  Thu, 04 Apr 2019 15:33:58 +0200
+
 libidn (1.33-2.1ubuntu1.1bb4) bionic; urgency=medium
 
   * Balabit patched version
