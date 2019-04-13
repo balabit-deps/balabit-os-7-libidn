@@ -1,8 +1,7 @@
 Source: libidn
 Section: libs
 Priority: optional
-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-XSBC-Original-Maintainer: Debian Libidn Team <help-libidn@gnu.org>
+Maintainer: Debian Libidn Team <help-libidn@gnu.org>
 Uploaders: Simon Josefsson <simon@josefsson.org>, Ondřej Surý <ondrej@debian.org>
 Standards-Version: 3.9.8
 Build-Depends: debhelper (>= 9), dh-autoreconf, autopoint (>= 0.19.3), help2man, texinfo

@@ -1,3 +1,10 @@
+libidn (1.33-2.1ubuntu1.2) bionic; urgency=medium
+
+  * Fix build failure in the proper way, with upstream gnulib patch
+    LP: #1813587
+
+ -- Gianfranco Costamagna <locutusofborg@debian.org>  Thu, 21 Mar 2019 10:33:11 +0100
+
 libidn (1.33-2.1ubuntu1.1bb5) bionic; urgency=medium
 
   * Balabit patched version
